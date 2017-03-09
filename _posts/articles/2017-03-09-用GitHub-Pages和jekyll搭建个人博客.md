@@ -15,8 +15,6 @@ modified: 2017-03-09T14:19:19-04:00
 闲来无事，打算搭建个人博客。查阅了各种资料，发现目前最省钱省力的方法就是在 GitHub Pages 上利用 jekyll 静态网页生成器搭建。
 对于 Web 开发小白来说，自己写网页代码不太现实。 好在GitHub 上有许多其他大神制作好的 jekyll 模板，直接 fork 过来修改一下就可以使用，其余的精力都可以用在文章内容本身上。
 
-<iframe src="http://v.youku.com/v_show/id_XMTg0NTc4NDgyMA==.html?spm=a2hww.20023042.ykRecommend.5~5!3~5~5~A" frameborder="0"> </iframe>
-
 - - - - - - -
 
 ## 搭建步骤
