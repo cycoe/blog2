@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "用GitHub-Pages和jekyll搭建个人博客"
-modified:
 categories: articles
 excerpt:
-tags: []
+tags: [网络技术]
+comments: true
+share: true
 image:
   feature:
 date: 2017-03-09T15:39:55-04:00
