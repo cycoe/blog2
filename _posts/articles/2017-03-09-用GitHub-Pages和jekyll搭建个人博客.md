@@ -7,7 +7,7 @@ tags: [网络技术]
 comments: true
 share: true
 image:
-  feature: so-simple-sample-image-4
+  feature: so-simple-sample-image-4.jpg
 date: 2017-03-09T15:39:55-04:00
 modified: 2017-03-09T14:19:19-04:00
 ---
@@ -15,7 +15,7 @@ modified: 2017-03-09T14:19:19-04:00
 闲来无事，打算搭建个人博客。查阅了各种资料，发现目前最省钱省力的方法就是在 GitHub Pages 上利用 jekyll 静态网页生成器搭建。
 对于 Web 开发小白来说，自己写网页代码不太现实。 好在GitHub 上有许多其他大神制作好的 jekyll 模板，直接 fork 过来修改一下就可以使用，其余的精力都可以用在文章内容本身上。
 
-<iframe width="560" height="315" src="http://vku.youku.com/live/play?id=11772&spm=a2hww.20023042.m_223465.5~5~5~5!4~5!2~5~5~A" frameborder="0"> </iframe>
+<iframe src="http://v.youku.com/v_show/id_XMTg0NTc4NDgyMA==.html?spm=a2hww.20023042.ykRecommend.5~5!3~5~5~A" frameborder="0"> </iframe>
 
 - - - - - - -
 
