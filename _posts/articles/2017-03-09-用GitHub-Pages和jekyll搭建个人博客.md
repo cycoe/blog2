@@ -16,5 +16,8 @@ modified: 2017-03-09T14:19:19-04:00
 
 ## 搭建步骤
 
-### 1. 在 GitHub 上找到自己喜欢的 jekyll 模板， fork 到自己的仓库下，然后点击 Setting 修改仓库名称
-### 2. 
+1. 在 GitHub 上找到自己喜欢的 jekyll 模板， fork 到自己的仓库下，然后点击 Setting 修改仓库名称
+2. 将 fork 后的项目 clone 至本地
+3. 打开 '_config.yml' 文件修改其中的信息
+4. 添加文章和博客到 '_posts'
+5. `git add .` 添加新增文件；`git commit -am "post update"` 提交修改；`git push` 推送更改到远端仓库
