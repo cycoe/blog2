@@ -7,7 +7,7 @@ tags: [网络技术]
 comments: true
 share: true
 image:
-  feature:
+  feature: so-simple-sample-image-4
 date: 2017-03-09T15:39:55-04:00
 modified: 2017-03-09T14:19:19-04:00
 ---
