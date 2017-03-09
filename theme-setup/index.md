@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Setup
+title: 主题设置教程
 excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
 modified: 2016-09-12T08:42:37-04:00
 image:
@@ -14,16 +14,16 @@ General notes and suggestions for customizing **So Simple Theme**.
 * Table of Contents
 {:toc}
 
-## Installation
+## 安装
 
-So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+So Simple 主题现在依赖 [Jekyll](http://jekyllrb.com/) 3.0。 如果你拥的版本不是最新的，确保运行了 `bundle update` 使得所有的 gem 依赖都能得到更新。
 
-If you are creating a new Jekyll site using So Simple follow these steps:
+如果你正在使用 So Simple 主题创建一个新的 jekyll 站点，请遵循下面的步骤：
 
-1. Fork the [So Simple repo](http://github.com/mmistakes/so-simple-theme/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install Jekyll and all dependencies.
-4. Update `_config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
+1. Fork [So Simple 仓库](http://github.com/mmistakes/so-simple-theme/fork)。
+2. 克隆你刚刚 fork 的仓库并重命名它。
+3. [安装 Bundler](http://bundler.io) 运行`gem install bundler` 和 `bundle install` 来安装 Jekyll 以及所有依赖。
+4. 更新 `_config.yml`， 增加样式表，然后用自己的内容来覆盖测试同的邮件和页面。具体步骤如下。
 
 If you want to use So Simple with an existing Jekyll site follow these steps:
 
