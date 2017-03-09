@@ -24,6 +24,7 @@ modified: 2017-03-09T14:19:19-04:00
 4. 添加文章和博客到 _posts 文件夹
 5. `git add .` 添加新增文件；`git commit -am "post update"` 提交修改；`git push` 推送更改到远端仓库
 6. 以后每次更新文章后只需运行下面的命令即可更新网页：
+
     git add .
     git commit -am "post update
     git push
