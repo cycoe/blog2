@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title: Cycoe's Personal Blog
-locale: en_US
-description: Describe your website here.
+locale: zh_CN
+description: 记录平常学习中遇到的问题与解决方法
 logo: site-logo.png
 search: true
 url: http://cycoe.win
@@ -35,20 +35,20 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: cycoe
+  avatar: user_photo.jpg
+  email: cycoe@cycoe.win
   disqus-shortname:
-  twitter: #username
+  twitter: cycoe
   facebook: #username
-  github: #username
+  github: cycoe
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
-  weibo: #userid
+  weibo: 邱大帅全宇宙粉丝后援会
   google:
     plus: #username
     analytics:
