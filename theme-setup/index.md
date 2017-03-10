@@ -18,21 +18,21 @@ General notes and suggestions for customizing **So Simple Theme**.
 
 So Simple 主题现在依赖 [Jekyll](http://jekyllrb.com/) 3.0。 如果你拥的版本不是最新的，确保运行了 `bundle update` 使得所有的 gem 依赖都能得到更新。
 
-如果你正在使用 So Simple 主题创建一个新的 jekyll 站点，请遵循下面的步骤：
+如果你正在使用 So Simple 主题创建一个新的 Jekyll 站点，请遵循以下步骤：
 
 1. Fork [So Simple 仓库](http://github.com/mmistakes/so-simple-theme/fork)。
 2. 克隆你刚刚 fork 的仓库并重命名它。
 3. [安装 Bundler](http://bundler.io) 运行`gem install bundler` 和 `bundle install` 来安装 Jekyll 以及所有依赖。
 4. 更新 `_config.yml`， 增加样式表，然后用自己的内容来覆盖测试同的邮件和页面。具体步骤如下。
 
-If you want to use So Simple with an existing Jekyll site follow these steps:
+如果你想对一个已存在的 Jekyll 站点套用 So Simple 主题，请遵循以下步骤：
 
-1. [Download So Simple](https://github.com/mmistakes/so-simple-theme/archive/master.zip) and unzip.
-2. Rename `so-simple-theme-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install Jekyll and all dependencies.
-4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
-6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below. 
+1. [下载 So Simple 主题](https://github.com/mmistakes/so-simple-theme/archive/master.zip) 并解压；
+2. 将 `so-simple-theme-master` 重命名为任何有意义的名字，如 `新站点`；
+3. 运行 `bundle install` 来安装 Jekyll 以及所有依赖；
+3. 移除测试页面，并替换为你自己的主页页面，或其他任何你想使用的内容；
+4. 更新 posts' 和 pages' YAML 来匹配 So Simple 主题所使用的变量。具体细节如下；
+6. 更新 `_config.yml` 文件并且新增链接变量以及可用的作者信息。具体细节如下。
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 {: .notice}
